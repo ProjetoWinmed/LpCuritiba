@@ -70,6 +70,11 @@ body {
 	transform: translate(-50%, -50%)
 }
 
+.bi-geo-alt:hover{
+ color: goldenrod;
+
+}
+
 .carousel-caption h2 {
 	color: #891819;
 	text-shadow: 1px 1px 1px rgb(146, 86, 86);
@@ -562,6 +567,8 @@ footer .bi-whatsapp:hover {
 		font-size: 45px;
 	}
 
+	
+
 	hr {
 		display: none;
 	}
@@ -627,6 +634,10 @@ footer .bi-whatsapp:hover {
 
 	#about h1{
 		margin-bottom: 30px;
+	}
+
+	.googlemaps{
+		font-size: 15px !important;
 	}
 	
 }
